@@ -28,7 +28,7 @@
 
     <slf4j.version>1.6.6</slf4j.version>
     <logback.version>1.0.6</logback.version>
-    <https-utils.version>0.2.1</https-utils.version>
+    <https-utils.version>0.3-SNAPSHOT</https-utils.version>
 
     <jetty.version>8.1.4.v20120524</jetty.version>
     <commons-io.version>1.3.2</commons-io.version>
