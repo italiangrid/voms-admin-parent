@@ -30,7 +30,9 @@
     <logback.version>1.0.6</logback.version>
     <https-utils.version>0.3-SNAPSHOT</https-utils.version>
 
-    <jetty.version>8.1.4.v20120524</jetty.version>
+    <!-- Keep this in sync with HTTP-UTILS -->
+    <jetty.version>8.1.9.v20130131</jetty.version>
+    
     <commons-io.version>1.3.2</commons-io.version>
     <commons-cli.version>1.1</commons-cli.version>
 
